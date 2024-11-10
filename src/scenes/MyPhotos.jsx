@@ -74,7 +74,7 @@ const MyPhotos = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Explore our gallery to see Carpets and Beyond in action! From luxurious hand-tufted carpets and EPE foams to elegant bedsheets and artificial grass installations, each image showcases the quality and attention to detail that define our work.
+            Explore our gallery to see Carpets and Beyond in action! From luxurious hand-tufted carpets to elegant bedsheets and artificial grass installations, each image showcases the quality and attention to detail that define our work.
           </p>
         </motion.div>
       </div>
